@@ -16,47 +16,47 @@ services:
 
       - key: API_ID
 
-        # value: 
+         value: 
 
         sync: false
 
       - key: API_HASH
 
-        # value: 
+         value: 
 
         sync: false
 
       - key: BOT_TOKEN
 
-        # value: 
+         value: 
 
         sync: false
 
       - key: MONGO_DB_URI
 
-        # value: 
+         value: 
 
         sync: false
 
       - key: INDEX_ID
 
-        # value: 
+         value: 
 
         sync: false
 
       - key: UPLOADS_ID
 
-       # value: 
+        value: 
        
       - key: STATUS_ID
 
-        # value: 
+         value: 
 
         sync: false
 
       - key: SCHEDULE_ID
 
-        # value: 
+         value: 
 
         sync: false
 
