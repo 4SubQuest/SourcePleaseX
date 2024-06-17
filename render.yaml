@@ -16,65 +16,64 @@ services:
 
       - key: API_ID
 
-        # value: Get this value from my.telegram.org
+         value: 26254064
 
         sync: false
 
       - key: API_HASH
 
-        # value: Get this value from my.telegram.org
+        # value: 72541d6610ae7730e6135af9423b319c
 
         sync: false
 
       - key: BOT_TOKEN
 
-        # value: Get this from @BotFather
+        # value: 7441307815:AAFodHq2VxsiHN0L_JFszGknKuKhgSF5eXc
 
         sync: false
 
       - key: MONGO_DB_URI
 
-        # value: Get this from cloud.mongodb.com
+        # value: mongodb+srv://tanzinmahmudatanisha:KwY6gX4V8Ms8tz0l@cluster0.8hdrmyc.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
 
         sync: false
 
       - key: INDEX_ID
 
-        # value: ID of your Index Channel
+        # value: -1002149148362
 
         sync: false
 
       - key: UPLOADS_ID
 
-       # value: ID of your Uploads Channel
+       # value: -1002164795280
        
       - key: STATUS_ID
 
-        # value: ID of the message in your Uploads Channel where the status of bot will be showed
+        # value: -1002164795280
 
         sync: false
 
       - key: SCHEDULE_ID
 
-        # value: ID of the message in your Uploads Channel where the Live Schedule From Subsplease will be showed
+        # value: -1002164795280
 
         sync: false
 
       - key: CHANNEL_TITLE
 
-        # value: Name of your channel (This will appear in thumbnail of videos)
-
+        # value: Anime Quest
         sync: false
 
       - key: INDEX_USERNAME
 
-        # value: Username of your Index Channel
+        # value: hsjsjsksoshs
 
         sync: false
 
       - key: UPLOADS_USERNAME
 
-        # value: Username of your Uploads Channel
+        # value: AutoOngoingQuest
 
         sync: false
 
