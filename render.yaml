@@ -16,65 +16,65 @@ services:
 
       - key: API_ID
 
-         value: 
+         value: 26254064‎
 
         sync: false
 
       - key: API_HASH
 
-         value: 
+         value: 72541d6610ae7730e6135af9423b319c
 
         sync: false
 
       - key: BOT_TOKEN
 
-         value: 
+         value: 7441307815:AAFodHq2VxsiHN0L_JFszGknKuKhgSF5eXc
 
         sync: false
 
       - key: MONGO_DB_URI
 
-         value: 
+         value: mongodb+srv://tanzinmahmudatanisha:KwY6gX4V8Ms8tz0l@cluster0.8hdrmyc.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
 
         sync: false
 
       - key: INDEX_ID
 
-         value: 
+         value: -1002149148362
 
         sync: false
 
       - key: UPLOADS_ID
 
-        value: 
+        value: -1002164795280
        
       - key: STATUS_ID
 
-         value: 
+         value: -1002164795280
 
         sync: false
 
       - key: SCHEDULE_ID
 
-         value: 
+         value: -1002164795280
 
         sync: false
 
       - key: CHANNEL_TITLE
 
-        # value: 
+         value: Anime Quest
 
         sync: false
 
       - key: INDEX_USERNAME
 
-        # value: 
+         value: hsjsjsksoshs
 
         sync: false
 
       - key: UPLOADS_USERNAME
 
-        # value: 
+         value: AutoOngoingQuest
 
         sync: false
 
