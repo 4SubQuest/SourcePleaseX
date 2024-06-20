@@ -16,7 +16,7 @@ services:
 
       - key: API_ID
 
-        # value: Get this value from my.telegram.org
+         value: 26254064
 
         sync: false
 
