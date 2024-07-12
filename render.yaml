@@ -22,7 +22,7 @@ services:
 
       - key: API_HASH
 
-         value: 72541d6610ae7730e6135af9423b319c
+         value:72541d6610ae7730e6135af9423b319c
 
         sync: false
 
