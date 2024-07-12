@@ -7,36 +7,36 @@ services:
     envVars:
       - key: API_ID
         value: 26254064
-        sync: false
+        sync: true
       - key: API_HASH
         value: 72541d6610ae7730e6135af9423b319c
-        sync: false
+        sync: true
       - key: BOT_TOKEN
         value: 7441307815:AAFodHq2VxsiHN0L_JFszGknKuKhgSF5eXc
-        sync: false
+        sync: true
       - key: MONGO_DB_URI
         value: mongodb+srv://tanzinmahmudatanisha:KwY6gX4V8Ms8tz0l@cluster0.8hdrmyc.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
-        sync: false
+        sync: true
       - key: INDEX_ID
         value: -1002149148362
-        sync: false
+        sync: true
       - key: UPLOADS_ID
         value: -1002164795280
-        sync: false
+        sync: true
       - key: STATUS_ID
         value: -1002164795280
-        sync: false
+        sync: true
       - key: SCHEDULE_ID
         value: -1002164795280
-        sync: false
+        sync: true
       - key: CHANNEL_TITLE
         value: Anime Quest
-        sync: false
+        sync: true
       - key: INDEX_USERNAME
         value: hsjsjsksoshs
-        sync: false
+        sync: true
       - key: UPLOADS_USERNAME
         value: AutoOngoingQuest
-        sync: false
+        sync: true
       - key: PORT
         value: 8080
