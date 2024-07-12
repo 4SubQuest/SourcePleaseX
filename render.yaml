@@ -1,84 +1,42 @@
 services:
-
-  # A Docker web service
-
   - type: web
-
     name: SourcePleaseX
-
     env: docker
-
     region: Singapore
-
     plan: free
-
     envVars:
-
       - key: API_ID
-
-         value:26254064
-
+        value: 26254064
         sync: false
-
       - key: API_HASH
-
-         value:72541d6610ae7730e6135af9423b319c
-
+        value: 72541d6610ae7730e6135af9423b319c
         sync: false
-
       - key: BOT_TOKEN
-
-         value:7441307815:AAFodHq2VxsiHN0L_JFszGknKuKhgSF5eXc
-
+        value: 7441307815:AAFodHq2VxsiHN0L_JFszGknKuKhgSF5eXc
         sync: false
-
       - key: MONGO_DB_URI
-
-         value:mongodb+srv://tanzinmahmudatanisha:KwY6gX4V8Ms8tz0l@cluster0.8hdrmyc.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
-
+        value: mongodb+srv://tanzinmahmudatanisha:KwY6gX4V8Ms8tz0l@cluster0.8hdrmyc.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
         sync: false
-
       - key: INDEX_ID
-
-         value:-1002149148362
-
+        value: -1002149148362
         sync: false
-
       - key: UPLOADS_ID
-
-         value:-1002164795280
-       
+        value: -1002164795280
+        sync: false
       - key: STATUS_ID
-
-         value:-1002164795280
-
+        value: -1002164795280
         sync: false
-
       - key: SCHEDULE_ID
-
-         value:-1002164795280
-
+        value: -1002164795280
         sync: false
-
       - key: CHANNEL_TITLE
-
-         value:Anime Quest
-
+        value: Anime Quest
         sync: false
-
       - key: INDEX_USERNAME
-
-         value:@hsjsjsksoshs
-
+        value: @hsjsjsksoshs
         sync: false
-
       - key: UPLOADS_USERNAME
-
-         value:@AutoOngoingQuest
-
+        value: @AutoOngoingQuest
         sync: false
-
       - key: PORT
-
-         value:8080
-        
+        value: 8080
