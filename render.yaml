@@ -46,7 +46,7 @@ services:
 
       - key: UPLOADS_ID
 
-        value:1002164795280
+         value:1002164795280
        
       - key: STATUS_ID
 
