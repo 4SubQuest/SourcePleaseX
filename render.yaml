@@ -68,13 +68,13 @@ services:
 
       - key: INDEX_USERNAME
 
-         value:hsjsjsksoshs
+         value:@hsjsjsksoshs
 
         sync: false
 
       - key: UPLOADS_USERNAME
 
-         value:AutoOngoingQuest
+         value:@AutoOngoingQuest
 
         sync: false
 
